@@ -1,0 +1,27 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "Mi primera version de node",
+  "main": "index.js",
+  "scripts": {
+    "cowsay": "./node_modules/.bin/cowsay",
+    "cowthink": "./node_modules/.bin/cowthink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angellogo/intro-node.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Angello Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angellogo/intro-node/issues"
+  },
+  "homepage": "https://github.com/Angellogo/intro-node#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
